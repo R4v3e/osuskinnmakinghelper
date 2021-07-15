@@ -1,6 +1,6 @@
 # osu skin making helper
 
-CAUTION: Better to copy four skin folder before using program
+CAUTION: its better to make a copy of your skin folder before using program!
 
 search for all files in directory and copy files to main path
 that allows creator to organize everything in sub directories.
