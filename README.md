@@ -1,4 +1,4 @@
-# osu skin making helper
+# osu skin making helper (ALPHA)
 
 CAUTION: its better to make a copy of your skin folder before using program!
 
