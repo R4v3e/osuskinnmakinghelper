@@ -1,6 +1,6 @@
 # osu skin making helper
 search for all files in directory and copy files to main path
-that allows creator to organize everything in folders.
+that allows creator to organize everything in sub directories.
 
 How to use:
 
