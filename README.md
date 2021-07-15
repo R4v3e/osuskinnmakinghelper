@@ -1,2 +1,9 @@
-# osuskinnmakinghelper
-search for all files in directory and coppy to main path
+# osu skin making helper
+search for all files in directory and copy files to main path
+that allows creator to organize everything in folders.
+
+How to use:
+
+1. open program
+2. give path to skin folder eg. "E:\games\osu\Skins\mySkinFolder"
+3. wait for program to copy all files into main skin file
